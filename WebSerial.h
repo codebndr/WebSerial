@@ -1,3 +1,14 @@
+/* 
+
+WebSerial Library for Arduino
+
+Implementation of an over Ethernet (WebSerial) Monitor,equivalent to Serial Monitor, using Websockets.
+
+Created by Alexandros Baltas, 2013.
+www.codebender.cc
+
+*/
+
 #ifndef WebSerial_h
 #define WebSerial_h
 
